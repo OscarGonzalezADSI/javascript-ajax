@@ -11,6 +11,8 @@ Se recomienda ampliamente consultar la documentación oficial tanto en
 español como en ingles porque a veces los autores son diferentes y
 su contenido difiere.
 
+Se realizó una implementación de herencias para la clase para realizar ejercicios de la w3schools.
+
 
 Este repositorio deberá estar en permanente revisión.
 Si quieres contribuir a el, puedes solicitarlo.
@@ -28,6 +30,8 @@ To.ADSI - SENA
 
 Fuentes de revisión.
 
+Mozilla:
+
 
 Español 
 https://developer.mozilla.org/es/docs/Web/Guide/AJAX/Getting_Started
@@ -35,3 +39,9 @@ https://developer.mozilla.org/es/docs/Web/Guide/AJAX/Getting_Started
 
 Inglés 
 https://developer.mozilla.org/en/docs/Web/Guide/AJAX/Getting_Started
+
+
+w3schools:
+
+
+https://www.w3schools.com/xml/ajax_intro.asp
