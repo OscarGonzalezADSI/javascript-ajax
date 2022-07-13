@@ -1,3 +1,6 @@
+var http_request = false;
+
+
 class AjaxRequest
 {
     constructor(url)
