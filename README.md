@@ -5,10 +5,10 @@ Estudio de Ajax en Javascript puro
 Este código esta basado en la documentación oficial de Mozilla.
 sin embargo como la exposición de ejemplo, presente un código difícil 
 de mantener a largo plazo, se restructuró el código al estilo de programación 
-orientada a objetos, 
+orientada a objetos.
 
-Se recomiendo ampliamente consultar la documentación oficial tanto en
-español como wn ingles porque a veces los autores son diferentes y
+Se recomienda ampliamente consultar la documentación oficial tanto en
+español como en ingles porque a veces los autores son diferentes y
 su contenido difiere.
 
 
