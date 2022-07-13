@@ -11,7 +11,7 @@ Se recomienda ampliamente consultar la documentación oficial tanto en
 español como en ingles porque a veces los autores son diferentes y
 su contenido difiere.
 
-Se realizó una implementación de herencias para la clase para realizar ejercicios de la w3schools.
+Se realizó una implementación de herencias para realizar ejercicios de la w3schools.
 
 
 Este repositorio deberá estar en permanente revisión.
