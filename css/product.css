@@ -1,0 +1,40 @@
+#product {
+  font-family: Arial, Helvetica, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#product td,
+#product th {
+  border: 1px solid #ddd;
+  padding: 8px;
+}
+
+#product th:nth-child(2n),
+#product th:nth-child(3n),
+#product td:nth-child(2n),
+#product td:nth-child(3n) {
+  text-align:right;
+}
+
+
+#product tr:nth-child(even){background-color: #f2f2f2;}
+
+#product tr:hover {background-color: #ddd;}
+
+#product th{
+  padding-top: 12px;
+  padding-bottom: 12px;
+  text-align: left;
+  background-color: #04AA6D;
+  color: white;
+}
+
+#product caption{
+  padding-top: 6px;
+  padding-bottom: 6px;
+  background-color: #999999;
+  color: white;
+  text-align:center;
+  font-size:16px;
+}
