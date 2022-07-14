@@ -7,6 +7,7 @@ class RoutesW3school
         this.demo_get(route, type);
         this.demo_getMath(route, type, data);
         this.demo_get2(route, type, data);
+        this.table(route, type, data);
     }
 
     helloUser(route, type, data)
