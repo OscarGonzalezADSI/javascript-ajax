@@ -28,4 +28,10 @@ document.addEventListener('DOMContentLoaded', () =>{
         document.getElementById("menu").click();
     });
     
+    document.getElementById("enviar6").addEventListener("click", ()=>{
+        const data = 'fname=Henry&lname=Ford';
+        new RoutesW3school('/table', 'POST', data);
+        document.getElementById("menu").click();
+    });
+    
 });
