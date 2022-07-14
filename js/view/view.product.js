@@ -60,7 +60,6 @@ class ViewProduct
         table.appendChild(tbody);
         document.getElementById("index").innerHTML = '';
         document.getElementById("index").appendChild(table);
-        console.log(document.getElementById("index").innerHTML);
     }
     
 }

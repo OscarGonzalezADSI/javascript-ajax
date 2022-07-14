@@ -29,8 +29,7 @@ document.addEventListener('DOMContentLoaded', () =>{
     });
     
     document.getElementById("enviar6").addEventListener("click", ()=>{
-        const data = 'fname=Henry&lname=Ford';
-        new RoutesW3school('/table', 'POST', data);
+        new RoutesW3school('/table', 'GET', '');
         document.getElementById("menu").click();
     });
     

@@ -59,7 +59,7 @@ class RoutesW3school
     {
         if(route == '/table')
         {
-            const url = './model/table.php';
+            const url = 'http://localhost/web/javascript-ajax-main/model/listarProductos.php';
             const myAjax = new Table(url, type, data);
         }
     }
