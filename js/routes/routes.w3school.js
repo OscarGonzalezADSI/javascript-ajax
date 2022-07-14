@@ -55,4 +55,12 @@ class RoutesW3school
         }
     }
     
+    table(route, type, data)
+    {
+        if(route == '/table')
+        {
+            const url = './model/table.php';
+            const myAjax = new Table(url, type, data);
+        }
+    }
 }
